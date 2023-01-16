@@ -1,5 +1,6 @@
 # Sword Fighting Game
 
+First experience with blender
 
 Sword | Hilt and Guard | Character
 :-------------------------:|:-------------------------:|:-------------------------:
