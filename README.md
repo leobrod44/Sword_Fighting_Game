@@ -1,6 +1,11 @@
 # Sword Fighting Game
 
-First experience with blender
+#Premise
+
+
+
+#Models
+This project was my first experience with 3D modeling. High res models like these were quite the task for getting started, so I switched to lower poly models in order to get used to rigging and animating. They are currently way too clunky, but I will get there eventually!
 
 Sword | Hilt and Guard | Character
 :-------------------------:|:-------------------------:|:-------------------------:
