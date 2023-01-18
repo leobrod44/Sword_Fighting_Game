@@ -1,6 +1,6 @@
 # Sword Fighting Game
 
-# Premise
+## Premise
 
 This Video Game idea was to have an online multiplayer 1v1 scenario sword combat, in which you want to predict your oponents next move to either parry or counterattack, and manage to sever his torso or head. Rather than having your mouse movement dictate your camera angle, this game's mouse movement acts as your sword movement. 
 
