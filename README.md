@@ -42,5 +42,5 @@ Sword | Hilt and Guard
    
 Character | Simpler sword and character side slash animation
 :-------------------------:|:-------------------------:
-<img align="center" width="50%" src="https://user-images.githubusercontent.com/65002959/212740633-9f793784-5f4a-4201-b56e-067f7b310032.png"> | <img align="center" width="50%" src="https://user-images.githubusercontent.com/65002959/213281426-d68389a8-6a80-4371-9d4a-a132cc6eab5c.gif">
+<img align="center" width="50%" src="https://user-images.githubusercontent.com/65002959/212740633-9f793784-5f4a-4201-b56e-067f7b310032.png"> | <img align="center" width="100%" src="https://user-images.githubusercontent.com/65002959/213281426-d68389a8-6a80-4371-9d4a-a132cc6eab5c.gif">
 
