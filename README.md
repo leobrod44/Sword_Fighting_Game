@@ -26,8 +26,8 @@ As visible in the gif below, every body part of a player's body has an glowing i
 Certain sequence of movements will allow the player to perform special attacks which can break through shielding and/or deal severe damage. Although, these attacks come at a cost and if not used wisely, can leave you wide open.
 
 - #### Other ideas
-- Cosmetics
-- Different character pool, ie. tanks, assassins, knights. Each with their own benefits/drawbacks
+  -Cosmetics 
+  -Different character pool, ie. tanks, assassins, knights. Each with their own benefits/drawbacks
 
 # Models
 This project was my first experience with 3D modeling. High res models like these were quite the task for getting started, so I switched to lower poly models in order to get used to rigging and animating. They are currently way too clunky, but I will get there eventually!
